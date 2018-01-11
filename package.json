@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-training",
+  "version": "1.0.0",
+  "description": "Project for NodeJS fundamentals and training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/igorjm/nodejs-training.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Igor Melo <igorjmelo4@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorjm/nodejs-training/issues"
+  },
+  "homepage": "https://github.com/igorjm/nodejs-training#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
